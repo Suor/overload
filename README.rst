@@ -15,7 +15,7 @@ Install
 Usage
 -----
 
-::
+.. code:: python
 
     from overload import *
 
